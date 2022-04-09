@@ -5,13 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swapnamoy951" alt="swapnamoy951" /></a> </p>
 
-- 🔭 Currently working on an IoT based Project **Smart Air pollution monitoring system using BSEC Library**
+- 🔭 Currently working on an IoT based Project named<br>
+ **Smart Air pollution monitoring system using BSEC Library**
 
 - 📫 Wanna reach me? **e.33.swapnamoydas@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Wh-JcyUu2lKZKLqwC15OlO4ordq1BXTf/view?usp=drivesdk](https://drive.google.com/file/d/1Wh-JcyUu2lKZKLqwC15OlO4ordq1BXTf/view?usp=drivesdk)
 
-- ⚡ Fun fact **I am confused. Literally :)**
+- ⚡ Fun fact<br>
+**I am confused. Literally :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

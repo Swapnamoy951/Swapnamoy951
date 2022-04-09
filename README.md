@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swapnamoy Das</h1>
-<img src="IMG_20220410_010028.png" alt="Boy Coding Vector Image" width="300" height="300">
+<p align="center"><img src="IMG_20220410_010028.png" alt="Boy Coding Vector Image" width="300" height="300"></p>
 <p align="center">A passionate Web development enthusiast. Eager to learn the tricks and techniques of Competitive Programming. Interested in IoT Projects and ML stuffs too.<p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnamoy951&label=Profile%20views&color=0e75b6&style=flat" alt="swapnamoy951" /> </p>

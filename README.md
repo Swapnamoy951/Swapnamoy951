@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swapnamoy Das</h1>
-<p align="center"><img src="IMG_20220410_010028.png" alt="Boy Coding Vector Image" width="300" height="300"></p>
+<p align="center"><img src="https://media.giphy.com/media/VbAFrrDVGAvZu/giphy-downsized-large.gif" alt="Boy Coding Vector Image" width="300" height="300"></p>
 <p align="center">A passionate Web development enthusiast. Eager to learn the tricks and techniques of Competitive Programming. Interested in IoT Projects and ML stuffs too.<p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnamoy951&label=Profile%20views&color=0e75b6&style=flat" alt="swapnamoy951" /> </p>
@@ -30,3 +30,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swapnamoy951&show_icons=true&locale=en&layout=compact" alt="swapnamoy951" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnamoy951&show_icons=true&locale=en" alt="swapnamoy951" /></p>
+
+<h2 align="center" >Github Metrics</h2>
+<div align="center">
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnamoy951&count_private=true&theme=radical" alt="swapnamoy951" />
+</div>

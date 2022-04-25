@@ -11,7 +11,7 @@
 
 - 📫 Wanna reach me? **e.33.swapnamoydas@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Wh-JcyUu2lKZKLqwC15OlO4ordq1BXTf/view?usp=drivesdk](https://drive.google.com/file/d/1Wh-JcyUu2lKZKLqwC15OlO4ordq1BXTf/view?usp=drivesdk)
+- 📄 Know about my experiences https://drive.google.com/file/d/19VM5xMDbYOrvP0Zc_rYmu0sDac_lTTsD/view?usp=drivesdk
 
 - ⚡ Fun fact<br>
 **I am confused. Literally :)**
